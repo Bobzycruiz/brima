@@ -1021,7 +1021,11 @@ body {
     font-size: var(--fs-7);
     padding-inline: 30px 60px;
   }
-
+ @media only screen and (max-width: 443px){
+  .header-btn a{
+  font-size: 13px;
+  }
+   }
 
 
   /**
