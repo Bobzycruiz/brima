@@ -1520,7 +1520,7 @@ body {
   }
   100%{
     /* opacity: 0; */
-    filter: blur(3px) brightness(2%);
+    filter: blur(3px) brightness(20%);
     background: url(../images/hero-banner1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
